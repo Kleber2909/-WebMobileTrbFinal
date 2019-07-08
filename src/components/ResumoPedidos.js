@@ -20,7 +20,7 @@ const ResumoPedidos = props => {
       case 4:
         return 'Concluídos'
       default:
-        return 'xx'
+        return ''
     }
   }
 
